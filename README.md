@@ -105,7 +105,7 @@
     ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
 
 * 2011.03 ~ 2014.07
-  - TCP 소켓 서버, WPF 클라이언트 개발
+  - TCP 소켓 서버, MFC, WPF 클라이언트 개발
  
     ![Java](https://img.shields.io/badge/Java-6DB33F.svg?style=flat-square)
     ![C#](https://img.shields.io/badge/C%23-00599C.svg?style=flat-square&logo=C-Sharp&logoColor=white)
