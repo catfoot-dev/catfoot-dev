@@ -109,6 +109,6 @@
 ### 링크
 * 이메일: <a href="javascript:location.href = 'mai' + 'lto:' + ['contact','catfoot.dev'].join('@')">contact@catfoot.dev</a>
 * 웹사이트: [catfoot.dev](https://catfoot.dev)
-* 유튜브: [youtube.com/catfoot-dev](https://youtube.com/@catfoot-dev)
-* 인스타그램: [instagram.com/catfoot.dev](https://www.instagram.com/catfoot.dev)
-* X(트위터): [x.com/catfoot_dev](https://x.com/catfoot_dev)
+* 유튜브: [@catfoot-dev](https://youtube.com/@catfoot-dev)
+* X(트위터): [@catfoot_dev](https://x.com/catfoot_dev)
+* 인스타그램: [catfoot.dev](https://www.instagram.com/catfoot.dev)
