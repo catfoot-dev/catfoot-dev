@@ -7,9 +7,31 @@
 * 고양이를 좋아하고, 개발을 좋아하는 저를 있는 그대로 표현한 닉네임입니다.
 
 ### 경력
-* 2024.08 ~ 현재
-  - 재직 중...
+* 2024.08 ~ 2026.02
+  - 게임 서버(API 웹 서버, 소켓 서버) 개발
  
+    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+    ![NestJs](https://img.shields.io/badge/NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+    ![socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
+    ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+    ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white)
+    ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white)
+    ![Amazon Identify Access Management](https://img.shields.io/badge/Amazon%20Identify%20Access%20Management-DD344C?style=flat-square&logo=amazoniam&logoColor=white)
+    ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+    ![AWS Elastic Load Balancing](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white)
+    ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+    ![Amazon Elastic Beanstalk](https://img.shields.io/badge/Amazon%20Elastic%20Beanstalk-FF9900?style=flat-square)
+    ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+    ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+    ![Amazon ElastiCache](https://img.shields.io/badge/Amazon%20ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white)
+    ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20Cloud%20Watch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+    ![git](https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white)
+    ![Subversion](https://img.shields.io/badge/Subversion-809CC9.svg?style=flat-square&logo=subversion&logoColor=white)
+    ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
+    
 * 2021.09 ~ 2024.05
   - 게임 서버(API 웹 서버) 개발
     
