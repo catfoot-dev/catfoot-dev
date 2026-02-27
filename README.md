@@ -60,7 +60,7 @@
     ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
 
 * 2018.07 ~ 2021.08
-  - K-POP 모바일 리듬 게임 서버 개발: API 웹 서버
+  - 모바일 리듬 게임 서버 개발: API 웹 서버
  
     ![Java](https://img.shields.io/badge/Java-6DB33F.svg?style=flat-square)
     ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white)
@@ -129,7 +129,7 @@
     ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
 
 * 2011.03 ~ 2014.07
-  - TCP 소켓 서버, MFC, WPF 클라이언트 개발
+  - R&D: TCP 소켓 서버, MFC, WPF 클라이언트 개발
  
     ![Java](https://img.shields.io/badge/Java-6DB33F.svg?style=flat-square)
     ![C#](https://img.shields.io/badge/C%23-00599C.svg?style=flat-square&logo=C-Sharp&logoColor=white)
