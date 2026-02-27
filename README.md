@@ -8,7 +8,8 @@
 
 ### 경력
 * 2024.08 ~ 2026.02
-  - 게임 서버(API 웹 서버, 소켓 서버) 개발
+  - 서브컬쳐 수집형 모바일 SLG 서버 개발: API 웹서버, Socket.io 서버
+  - 서브컬쳐 수집형 모바일 AFK 게임 서버 개발: API 웹서버, Socket.io 서버
  
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
@@ -33,7 +34,7 @@
     ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
     
 * 2021.09 ~ 2024.05
-  - 게임 서버(API 웹 서버) 개발
+  - 모바일 3매치 퍼즐 게임 서버 개발: API 웹 서버
     
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
@@ -59,7 +60,7 @@
     ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
 
 * 2018.07 ~ 2021.08
-  - 게임 서버(API 웹 서버) 개발
+  - K-POP 모바일 리듬 게임 서버 개발: API 웹 서버
  
     ![Java](https://img.shields.io/badge/Java-6DB33F.svg?style=flat-square)
     ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white)
@@ -93,7 +94,7 @@
     ![etc](https://img.shields.io/badge/etc...-333333?style=flat-square)
     
 * 2016.01 ~ 2018.07
-  - 게임 서버(TCP 소켓 서버) 개발
+  - 모바일 MMORPG 서버 개발: 소켓 서버
 
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)
